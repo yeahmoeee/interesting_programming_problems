@@ -2,15 +2,15 @@
 
 Write a function, max_value, that takes in list of numbers as an argument. The function should return the largest number in the list.
 
-Solve this without using any built-in list methods.
-
 You can assume that the list is non-empty.
 
 ## Example Test Case
 
+```rb
 max_value([1,2,3,4,5]) -> 5
 
 max_value([3,4,7,5])   -> 7
+```
 
 ## Approach
 
