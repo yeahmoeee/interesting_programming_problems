@@ -8,5 +8,5 @@ Most of my code would be written in either Python or C++, but I would definitely
 
 
 ## My list 
-1. Max Value (From https://structy.net/problems/max-value) [Updated 15th September 2022]
+1. [Max Value](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Max%20Value) (Python) (From https://structy.net/problems/max-value) [Updated] 
 
