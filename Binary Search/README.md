@@ -42,7 +42,7 @@ There are at most log n iterations to find the target.
             set "l" to (mid - 1).
             -If the value at "mid" is greater than the target value, then
             set "r" to (mid + 1).
-3. After the while loop ended, return -1 if the value at "mid" is not the same as the target value, else return "mid". 
+3.  After jumping out of while loop, return -1 if the value at "mid" is not the same as the target value, else return "mid". 
 
 ### Analysis:
 If there are n elements in the list, there are at most log n iterations, so in the worst case scenario, it is O(log n) in time complexity. Since only a few variables are defined, it is O(1) in space complexity. 
