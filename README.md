@@ -12,4 +12,5 @@ Most of my code would be written in either Python or C++, but I would definitely
 
 2. [Binary Search](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Binary%20Search) (Python) (From https://leetcode.com/problems/binary-search/) [Updated 16th September 2022]
  
+3. [Palindrome Number](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Palindrome%20Number) (Python) (From https://leetcode.com/problems/palindrome-number/) [Updated 17th September 2022]
  
