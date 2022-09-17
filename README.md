@@ -10,3 +10,6 @@ Most of my code would be written in either Python or C++, but I would definitely
 ## My list 
 1. [Max Value](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Max%20Value) (Python/C++) (From https://structy.net/problems/max-value) [Updated 15th September 2022] 
 
+2. [Binary Search](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Binary%20Search) (Python) (From https://leetcode.com/problems/binary-search/) [Updated 16th September 2022]
+ 
+ 
