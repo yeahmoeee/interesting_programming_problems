@@ -14,3 +14,5 @@ Most of my code would be written in either Python or C++, but I would definitely
  
 3. [Palindrome Number](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Palindrome%20Number) (Python) (From https://leetcode.com/problems/palindrome-number/) [Updated 17th September 2022]
  
+4. [Two Sum](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Two%20Sum) (Python) (From https://leetcode.com/problems/two-sum/) [Updated 18th September 2022]
+
