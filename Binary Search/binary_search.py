@@ -9,4 +9,4 @@ def binary_search(nums, target):
             l = mid + 1
         else:
             r = mid - 1
-    return (-1 if nums[mid] != target else mid)
+    return -1
