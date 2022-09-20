@@ -35,13 +35,11 @@ There are at most log n iterations to find the target.
 1. Create a pointer variable "l","r" and "mid" and store 0, last index and 0 respectively.
 
 2. Use a while loop with the condition (l <= r). 
-      - Set "mid" to be (l + r)//2 
-      - Check condition:
-            -If the value at "mid" is equal to the target value, then simply return "mid".
-            -If the value at "mid" is less than the target value, then
-            set "l" to (mid - 1).
-            -If the value at "mid" is greater than the target value, then
-            set "r" to (mid + 1).
+   * Set "mid" to be (l + r)//2 
+   * Check condition:
+      * If the value at "mid" is equal to the target value, then simply return "mid".
+      * If the value at "mid" is less than the target value, then set "l" to (mid - 1).
+      * If the value at "mid" is greater than the target value, then set "r" to (mid + 1).
 3.  After jumping out of while loop, return -1 since target cannot be found.
 
 ### Analysis:
