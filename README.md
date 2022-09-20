@@ -16,3 +16,4 @@ Most of my code would be written in either Python or C++, but I would definitely
  
 4. [Two Sum](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Two%20Sum) (Python) (From https://leetcode.com/problems/two-sum/) [Updated 18th September 2022]
 
+5. [Remove Element](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Remove%20Element) (Python) (From https://leetcode.com/problems/remove-element/) [Updated 21st September 2022]
