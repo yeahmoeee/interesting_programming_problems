@@ -28,9 +28,9 @@ In order to do in-place removal, as you iterate through "nums", check if the val
 
 ### Algorithm:
 1. Set variable "i" to 0.
-2. Iterate through "nums"
-       -If the value is equal to "val", then do nothing.
-       -Else, set "nums" at index "i" to the value and then increment "i" by 1.
+2. Iterate through "nums".
+     - If the value is equal to "val", then do nothing.
+     - Else, set "nums" at index "i" to the value and then increment "i" by 1.
 3. Return "i".
 
 ### Analysis:
