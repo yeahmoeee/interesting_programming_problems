@@ -20,7 +20,7 @@ searchInsert(nums = [1,3,5,6], target = 7) -> 4
 
 Since the question is asking us to write an algorithm in O(log n), the first thing that should come into your mind is some kind of algorithm that shrink the search space by half through each iteration. 
 
-As you can see, since the array is sorted, we can used [Binary Search](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Binary%20Search) to look for the index. If the target is not found, then return the index which the target should be inserted in. 
+As you can see, since the array is sorted, we use [Binary Search](https://github.com/yeahmoeee/interesting_programming_problems/tree/main/Binary%20Search) to look for the index. If the target is not found, then return the index which the target should be inserted in. 
 
 
 ### Algorithm:
